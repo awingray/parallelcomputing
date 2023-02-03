@@ -1,6 +1,9 @@
 /* File: CNN.c
  * Sofie Lovdal 31.5.2018
  * Implements the first convolutional layer of a primitive CNN similar to AlexNet
+ * --------------
+ * Awin Gray 2019
+ * Uses Sofie's implementation to compute 3d matrix
  */
 
 #include <stdio.h>
